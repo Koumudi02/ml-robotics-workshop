@@ -1,4 +1,5 @@
-![WhatsApp Image 2025-01-30 at 15 44 35_d5b7e320](https://github.com/user-attachments/assets/44fc1bf5-3ad6-4389-af8d-926ad0ce390b)#SUMMARY 
+#SUMMARY 
+
 #TASK 1:Regression Model
 ##Performance Metrics:
 RMSE (Root Mean Square Error): Indicates the average magnitude of prediction errors. Lower values suggest better model performance.
@@ -8,6 +9,7 @@ A Linear Regression model may provide simple and interpretable results but could
 Decision Tree Regressor might capture non-linear relationships better but could overfit on smaller datasets.
 Feature importance analysis revealed the dominant impact of speed on predicting robot movement.
 Visualization of predicted vs. actual values can reveal model bias and variance.
+
 #Task 2:Classification Model 
 ##Evaluation Metrices:
 Accuracy: Measures the overall correctness of the model's predictions.
